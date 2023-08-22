@@ -10,6 +10,6 @@ EDA_Level - Electrodermal activity of the skin, measuring the skin’s electrica
 Heart_Rate - Heart rate generated from BVP and IBI sensors. 
 Skin_Temperature - Skin temperature in Celsius id - Anonymized Id of the user datetime - the datetime float 
               number that contains the time that signal was generated using the internal clock of the wristband. 
-ID
-Stress_Level - stress level from surveys
+ID, datetime
+Label - stress level from surveys
 
